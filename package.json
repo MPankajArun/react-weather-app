@@ -21,7 +21,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "",
+  "homepage": "https://mpankajarun.github.io/react-weather-app/",
   "browserslist": [
     ">0.2%",
     "not dead",
